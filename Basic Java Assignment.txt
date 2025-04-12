@@ -1,1 +1,16 @@
 GitHub Link: https://github.com/shivamanandb/Java_Assignment.git
+
+mock api
+
+EventHive
+Event refers to gatherings, meetings, or occasions.
+Hive symbolizes a busy and dynamic place, like a beehive, representing collaboration, productivity, and active participation.
+
+
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+It tells Hibernate (the ORM tool) which SQL dialect to use when generating SQL queries.
+In this case, it specifies MySQLDialect because you're using a MySQL database.
+
+
+spring.jpa.hibernate.ddl-auto=update
+all entity will be updated when the project will run first time
